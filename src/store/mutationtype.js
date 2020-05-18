@@ -1,0 +1,5 @@
+export const SETTARBARSTATE = "setTarBarState"
+export const ADDCOUNTER = "addCounter"
+export const ADDTOCART = "addToCart"
+export const UPDATECARTITEM = "updateCartItem"
+export const SETALLCHECK = "setAllCheck"
